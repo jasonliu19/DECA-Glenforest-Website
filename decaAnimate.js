@@ -42,4 +42,5 @@ function secondAnimation(){
 function createCookie(){
     document.cookie="alreadyVisited=1";
 }
+
 $(document).ready(main);
